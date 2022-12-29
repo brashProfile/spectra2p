@@ -1,0 +1,24 @@
+body {
+  max-width: 75%;
+  margin:auto;
+}
+
+.selector-container {
+  border: 3px solid #fff;
+  padding: 20px;
+}
+
+.dye-selector {
+  width: 75%;
+  float: left; 
+  padding: 20px;
+  border: 2px solid red;
+} 
+
+.button {
+  padding: 30px;
+}
+
+.chart {
+  max-width: 10%;
+}
